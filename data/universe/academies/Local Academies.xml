@@ -26,7 +26,6 @@
         <locationSystem>Terra</locationSystem>
         <constructionYear>2300</constructionYear>
         <tuition>18900</tuition>
-        <ageMax>3</ageMax>
         <durationDays>10</durationDays>
         <educationLevelMax>Early Childhood</educationLevelMax>
         <facultySkill>12</facultySkill>
@@ -136,7 +135,7 @@
         <facultySkill>12</facultySkill>
         <ageMin>10</ageMin>
         <ageMax>16</ageMax>
-        <qualification>MechTech Apprenticeship</qualification>
+        <qualification>MekTech Apprenticeship</qualification>
         <curriculum>Astech, Tech/Mek, Administration</curriculum>
         <qualificationStartYear>2500</qualificationStartYear>
         <qualification>Mechanic Apprenticeship</qualification>
@@ -348,7 +347,7 @@
         <baseAcademicSkillLevel>1</baseAcademicSkillLevel>
     </academy>
     <academy>
-        <name>Boot Camp</name>
+        <name>Bootcamp</name>
         <type>Basic Training</type>
         <isMilitary>true</isMilitary>
         <description>A sprawling, high-security installation where recruits endure intense physical conditioning, drills, and live-fire exercises with both personal and vehicle-scale weaponry. The training regimen emphasizes discipline, loyalty to one's faction, and the strategic use of cutting-edge technology in combined arms warfare.</description>
