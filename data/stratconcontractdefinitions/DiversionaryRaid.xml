@@ -21,6 +21,7 @@
     <contractTypeName>Diversionary Raid</contractTypeName>
     <alliedFacilityCount>0</alliedFacilityCount>
     <briefing>Engage hostile forces.</briefing>
+    <allowEarlyVictory>true</allowEarlyVictory>
     <hostileFacilityCount>-1</hostileFacilityCount>
     <objectivesBehaveAsVPs>true</objectivesBehaveAsVPs>
     <scenarioOdds>

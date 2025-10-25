@@ -21,6 +21,7 @@
     <contractTypeName>Guerrilla Warfare</contractTypeName>
     <alliedFacilityCount>0</alliedFacilityCount>
     <briefing>Engage hostile forces. Be quick.</briefing>
+    <allowEarlyVictory>true</allowEarlyVictory>
     <hostileFacilityCount>-1</hostileFacilityCount>
     <objectivesBehaveAsVPs>true</objectivesBehaveAsVPs>
     <scenarioOdds>
