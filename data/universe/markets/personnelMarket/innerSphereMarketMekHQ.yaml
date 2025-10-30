@@ -55,7 +55,7 @@
   count: 1
   introductionYear: 2148
   extinctionYear: -1
-  fallbackProfession: GROUND_VEHICLE_DRIVER
+  fallbackProfession: VEHICLE_CREW_GROUND
 
 - weight: 195
   profession: VESSEL_GUNNER
@@ -69,14 +69,14 @@
   count: 1
   introductionYear: 2148
   extinctionYear: -1
-  fallbackProfession: VEHICLE_CREW
+  fallbackProfession: MECHANIC
 
 - weight: 4
   profession: VESSEL_NAVIGATOR
   count: 1
   introductionYear: 2148
   extinctionYear: -1
-  fallbackProfession: VEHICLE_CREW
+  fallbackProfession: MECHANIC
 
 - weight: 741
   profession: CONVENTIONAL_AIRCRAFT_PILOT
@@ -111,7 +111,7 @@
   count: 1
   introductionYear: 2355
   extinctionYear: -1
-  fallbackProfession: GROUND_VEHICLE_DRIVER
+  fallbackProfession: VEHICLE_CREW_GROUND
 
 - weight: 833
   profession: MEK_TECH
@@ -127,30 +127,23 @@
   extinctionYear: -1
   fallbackProfession: SOLDIER
 
-- weight: 315
-  profession: GROUND_VEHICLE_DRIVER
-  count: 1
+- weight: 1888
+  profession: VEHICLE_CREW_GROUND
+  count: 4
   introductionYear: 0
   extinctionYear: -1
   fallbackProfession: SOLDIER
 
-- weight: 37
-  profession: VTOL_PILOT
-  count: 1
+- weight: 222
+  profession: VEHICLE_CREW_VTOL
+  count: 4
   introductionYear: 0
   extinctionYear: -1
   fallbackProfession: SOLDIER
 
-- weight: 19
-  profession: NAVAL_VEHICLE_DRIVER
-  count: 1
-  introductionYear: 0
-  extinctionYear: -1
-  fallbackProfession: SOLDIER
-
-- weight: 1852
-  profession: VEHICLE_GUNNER
-  count: 3
+- weight: 113
+  profession: VEHICLE_CREW_NAVAL
+  count: 4
   introductionYear: 0
   extinctionYear: -1
   fallbackProfession: SOLDIER
