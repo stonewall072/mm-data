@@ -18,7 +18,7 @@
 chassis:Assassin
 model:ASN-30 (Alice)
 mul id:3738
-source:Record Sheets: Unique Mechs
+source:RS:UM
 
 Config:Biped
 TechBase:Inner Sphere

@@ -23,7 +23,7 @@ mul id:7174
 Config:Quad
 techbase:Inner Sphere
 era:2990
-source:Record Sheets: Vehicle Annex - IndustrialMechs & Exoskeletons
+source:RS:VA
 rules level:3
 
 mass:80

@@ -18,12 +18,12 @@
 chassis:Gunslinger
 model:GUN-1ERD (Jared)
 mul id:1348
-source:Record Sheets: Unique Mechs
+source:RS:UM
 
 Config:Biped
 TechBase:Inner Sphere
 Era:3063
-source:Record Sheets: Unique Mechs
+source:RS:UM
 Rules Level:2
 role:Missile Boat
 

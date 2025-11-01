@@ -18,7 +18,7 @@
 chassis:Stealth
 model:STH-1D (Anna)
 mul id:3053
-source:Record Sheets: Unique Mechs
+source:RS:UM
 
 Config:Biped
 TechBase:Inner Sphere

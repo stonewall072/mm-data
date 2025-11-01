@@ -18,7 +18,7 @@
 chassis:Thanatos
 model:TNS-4S (Felix)
 mul id:3173
-source:Record Sheets: Unique Mechs
+source:RS:UM
 
 Config:Biped
 TechBase:Inner Sphere

@@ -18,7 +18,7 @@
 chassis:Stalker
 model:STK-3Fb
 mul id:3037
-source:Historical: Operation Klondike
+source:His:OK
 
 Config:Biped
 TechBase:Inner Sphere

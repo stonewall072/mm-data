@@ -18,7 +18,7 @@
 chassis:Grand Dragon
 model:DRG-1G (Douglas)
 mul id:1257
-source:Record Sheets: Unique Mechs
+source:RS:UM
 
 Config:Biped
 TechBase:Inner Sphere

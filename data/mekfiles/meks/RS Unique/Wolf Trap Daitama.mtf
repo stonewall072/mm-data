@@ -18,7 +18,7 @@
 chassis:Wolf Trap (Tora)
 model:WFT-1 (Daitama)
 mul id:3555
-source:Record Sheets: Unique Mechs
+source:RS:UM
 
 Config:Biped
 TechBase:Inner Sphere

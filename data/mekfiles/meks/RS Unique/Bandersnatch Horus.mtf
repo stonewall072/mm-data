@@ -18,7 +18,7 @@
 chassis:Bandersnatch
 model:BNDR-01A (Horus)
 mul id:3780
-source:Record Sheets: Unique Mechs
+source:RS:UM
 
 Config:Biped
 TechBase:Inner Sphere

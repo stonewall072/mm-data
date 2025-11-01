@@ -18,7 +18,7 @@
 chassis:Snake
 model:SNK-1V (Alexi)
 mul id:2975
-source:Record Sheets: Unique Mechs
+source:RS:UM
 
 Config:Biped
 TechBase:Inner Sphere

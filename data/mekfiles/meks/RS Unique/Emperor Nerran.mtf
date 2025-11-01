@@ -18,7 +18,7 @@
 chassis:Emperor
 model:EMP-6A (Nerran)
 mul id:965
-source:Record Sheets: Unique Mechs
+source:RS:UM
 
 Config:Biped
 TechBase:Mixed (IS Chassis)
