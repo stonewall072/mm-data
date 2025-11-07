@@ -109,7 +109,7 @@
 
 - weight: 2222 # CamOps states that this result is 2778 so we divided it across conv. infantry and BA 4:1
   profession: SOLDIER
-  count: 25
+  count: 28
   introductionYear: 0
   extinctionYear: -1
   fallbackProfession: DEPENDENT
