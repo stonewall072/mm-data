@@ -1,30 +1,4 @@
-# MegaMek Data (C) 2025 by The MegaMek Team is licensed under CC BY-NC-SA 4.0.
-# To view a copy of this license, visit https://creativecommons.org/licenses/by-nc-sa/4.0/
-#
-# NOTICE: The MegaMek organization is a non-profit group of volunteers
-# creating free software for the BattleTech community.
-#
-# MechWarrior, BattleMech, `Mech and AeroTech are registered trademarks
-# of The Topps Company, Inc. All Rights Reserved.
-#
-# Catalyst Game Labs and the Catalyst Game Labs logo are trademarks of
-# InMediaRes Productions, LLC.
-#
-# MechWarrior Copyright Microsoft Corporation. MegaMek Data was created under
-# Microsoft's "Game Content Usage Rules"
-# <https://www.xbox.com/en-US/developers/rules> and it is not endorsed by or
-# affiliated with Microsoft.
-
-#building block data file
-<BlockVersion>
-1
-</BlockVersion>
-
-##Write the version number just in case...
-<Version>
-MAM0
-</Version>
-
+#Saved from version 0.50.10 on 2025-11-13
 <UnitType>
 Warship
 </UnitType>
@@ -62,13 +36,13 @@ Aerodyne
 </motion_type>
 
 <transporters>
-smallcraftbay:8.0:4:1
-dropshuttlebay:2.0:1:2:f0
-1stclassquarters:120.0:0
-crewquarters:385.0:0
-2ndclassquarters:210.0:0
-cargobay:10100.0:1:6
-cargobay:10100.0:1:7
+smallcraftbay:8.0:4:1::-1:0
+dropshuttlebay:2.0:1:2::0:0
+1stclassquarters:120.0:0:-1::-1:0
+crewquarters:385.0:0:-1::-1:0
+2ndclassquarters:210.0:0:-1::-1:0
+cargobay:10175.0:1:7::-1:0
+cargobay:10175.5:1:6::-1:0
 </transporters>
 
 <SafeThrust>
@@ -95,21 +69,25 @@ cargobay:10100.0:1:7
 40
 </armor_type>
 
-<armor_tech>
+<armor_tech_rating>
+0
+</armor_tech_rating>
+
+<armor_tech_level>
 5
-</armor_tech>
+</armor_tech_level>
 
 <internal_type>
 -1
 </internal_type>
 
 <armor>
-9
-7
-7
-5
-6
-6
+3
+2
+2
+2
+2
+2
 </armor>
 
 <Nose Equipment>
@@ -242,4 +220,5 @@ XTR:Primitives I
 <escape_pod>
 20
 </escape_pod>
+
 
