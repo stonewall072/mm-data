@@ -48,14 +48,11 @@
         <fixedUnitCount>-1</fixedUnitCount>
         <forceAlignment>2</forceAlignment>
         <forceMultiplier>1.0</forceMultiplier>
-        <forceName>Aerospace Reinforcements</forceName>
+        <forceName>Rapid Response Force</forceName>
         <generationMethod>1</generationMethod>
         <generationOrder>5</generationOrder>
         <maxWeightClass>4</maxWeightClass>
         <retreatThreshold>0</retreatThreshold>
-        <objectiveLinkedForces>
-            <objectiveLinkedForce>OpFor</objectiveLinkedForce>
-        </objectiveLinkedForces>
         <startingAltitude>5</startingAltitude>
         <syncDeploymentType>None</syncDeploymentType>
         <syncedForceName />

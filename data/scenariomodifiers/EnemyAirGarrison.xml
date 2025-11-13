@@ -41,9 +41,6 @@
         <generationMethod>3</generationMethod>
         <generationOrder>5</generationOrder>
         <maxWeightClass>4</maxWeightClass>
-        <objectiveLinkedForces>
-            <objectiveLinkedForce>OpFor</objectiveLinkedForce>
-        </objectiveLinkedForces>
         <retreatThreshold>75</retreatThreshold>
         <startingAltitude>5</startingAltitude>
         <syncDeploymentType>None</syncDeploymentType>

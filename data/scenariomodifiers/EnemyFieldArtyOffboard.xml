@@ -45,9 +45,6 @@
         <maxWeightClass>4</maxWeightClass>
         <retreatThreshold>75</retreatThreshold>
         <startingAltitude>0</startingAltitude>
-        <objectiveLinkedForces>
-            <objectiveLinkedForce>OpFor</objectiveLinkedForce>
-        </objectiveLinkedForces>
         <syncDeploymentType>SameEdge</syncDeploymentType>
         <syncedForceName>OpFor</syncedForceName>
         <useArtillery>false</useArtillery>

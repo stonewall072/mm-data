@@ -40,9 +40,6 @@
         <generationOrder>3</generationOrder>
         <maxWeightClass>4</maxWeightClass>
         <minWeightClass>0</minWeightClass>
-        <objectiveLinkedForces>
-            <objectiveLinkedForce>OpFor</objectiveLinkedForce>
-        </objectiveLinkedForces>
         <retreatThreshold>50</retreatThreshold>
         <startingAltitude>5</startingAltitude>
         <syncDeploymentType>SameEdge</syncDeploymentType>
